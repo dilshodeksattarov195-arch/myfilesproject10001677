@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrpdate",
+        "uuid": 11720553,
+        "checksum": "b5nwbm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
